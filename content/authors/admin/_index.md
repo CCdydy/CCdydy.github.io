@@ -25,14 +25,14 @@ organizations:
     url: https://www.cqu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am looking for new research interests and look forward to making achievements in the field of artificial intelligence.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Computer Vision
+  - Computational Photography
+  - D-S Evidence Theory
 # Education to show in About widget
 education:
   courses:
