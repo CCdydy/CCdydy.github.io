@@ -3,7 +3,7 @@
 title: ZIYUE ZENG
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ziyue
@@ -36,15 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.S. iN ARTiFiCiAL INTELLiGENCE
+      institution: CQU(Chongqing University)
+      year: Sep.2020 ‑ Jul.2024
+    - course: EXCHANGE STUDENT PROGRAM‑SCHOOL OF FUNDAMENTAL SCiENCE AND ENGiNEERiNG
+      institution: Waseda University
+      year: Apr.2023 ‑ Aug.2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
