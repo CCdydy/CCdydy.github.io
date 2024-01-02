@@ -37,9 +37,9 @@ interests:
 education:
   courses:
     - course: B.S. iN ARTiFiCiAL INTELLiGENCE
-      institution: CQU(Chongqing University)
+      institution: Chongqing University
       year: Sep.2020 ‑ Jul.2024
-    - course: EXCHANGE STUDENT PROGRAM‑SCHOOL OF FUNDAMENTAL SCiENCE AND ENGiNEERiNG
+    - course: EXCHANGE （SCHOOL OF FUNDAMENTAL SCiENCE AND ENGiNEERiNG）
       institution: Waseda University
       year: Apr.2023 ‑ Aug.2023
 
