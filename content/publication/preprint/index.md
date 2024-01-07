@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "A Generalized Hellinger Distance for Multisource Information Fusion and Its Application in Pattern Classification"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-11-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-02-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Dempster-Shafer (D-S) evidence theory is used to process multisource data fusion and uncertainty problems. When faced with strongly contradictory evidence, there are always some surprising phenomena. We propose a new generalized distance based on Li et al.’s Hellinger distance in this study to assess the distinction between basic probability assignments (BPAs) in order to solve this problem.The basic structure of Li et al.’s Hellinger distance was kept in the generalized Hellinger distance, and certain advancements were achieved. The generalized Hellinger distance considers the differences between both focal elements and the subsets of the sets of belief functions, enabling a wider range of applications for it. Additionally, we present the proof of generalized Hellinger distance satisfied nonnegativeness, symmetry, definiteness and triangle inequality. Through several comparative examples, we know that the new distance has better universality than some well known works. Finally, we suggest a novel generalized Hellinger distance based multisource data fusion approach and use it to solve a real-word pattern classification problem.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In the future we will focus on the theory and evaluation of multisource data fusion’ related fields. The proposed algorithm will be tested by more experiments and simulations, besides our new algorithm will be applied in many other fields.
 
 tags:
 - Source Themes
@@ -28,9 +28,9 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: ""
+url_pdf: ""
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -58,7 +58,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 {{% callout note %}}
