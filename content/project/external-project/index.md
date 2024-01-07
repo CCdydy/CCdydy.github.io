@@ -1,12 +1,12 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: D-S Evidence Theory Learning
+summary: The first research conducted after joining the laboratory during my undergraduate studies.
 tags:
   - Demo
-date: "2016-04-27T00:00:00Z"
+date: "2021-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: http://www.cse.cqu.edu.cn/kxyj/kypt.htm
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
