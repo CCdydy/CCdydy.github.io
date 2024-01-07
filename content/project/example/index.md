@@ -12,9 +12,8 @@ image:
   caption: Target recognition
   focal_point: Smart
 
-
-links: ''
-  - icon: ai
+links: 
+  - icon: twitter
     icon_pack: fab
     name: Follow
     url: https://docs.google.com/document/d/18o0yLOp9uXybKav0a6EnxJgAq2glUaSl_XCutDj9wpg/edit
