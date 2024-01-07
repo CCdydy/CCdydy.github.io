@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        My email is as follows. If you have any questions, please contact me.
       # Contact (add or remove contact options as necessary)
       email: zengziyue26@gmail.com
       phone: +(86) 136 8122 3237
