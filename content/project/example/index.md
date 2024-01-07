@@ -14,12 +14,12 @@ image:
 
 
 links: ''
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: Follow
-  #   url: https://twitter.com/georgecushen
+  - icon: ai
+    icon_pack: fab
+    name: Follow
+    url: https://docs.google.com/document/d/18o0yLOp9uXybKav0a6EnxJgAq2glUaSl_XCutDj9wpg/edit
 url_code: ''
-proposal: https://docs.google.com/document/d/18o0yLOp9uXybKav0a6EnxJgAq2glUaSl_XCutDj9wpg/edit
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
