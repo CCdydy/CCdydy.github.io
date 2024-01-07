@@ -1,6 +1,6 @@
 ---
 title: YOLO's Learning and Deployment
-summary: An example of using the in-built project page.
+summary: Work during undergraduate exchange programs at Waseda University.
 tags:
   - Deep Learning
 date: '2023-05-27T00:00:00Z'
