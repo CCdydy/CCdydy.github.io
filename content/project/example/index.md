@@ -12,16 +12,20 @@ image:
   caption: Target recognition
   focal_point: Smart
 
+icon: proposal
+    icon_pack: ai
+    link: uploads/proposal.pdf
+icon: report
+    icon_pack: ai
+    link: uploads/main.pdf
+
 links: ''
   # - icon: twitter
   #   icon_pack: fab
   #   name: Follow
   #   url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: uploads/proposal.pdf
-  name: proposal
-url_pdf: uploads/main.pdf
-  name: report
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
