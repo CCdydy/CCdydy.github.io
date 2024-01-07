@@ -19,7 +19,7 @@ links: ''
   #   name: Follow
   #   url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'uploads/main.pdf'
+proposal: https://docs.google.com/document/d/18o0yLOp9uXybKav0a6EnxJgAq2glUaSl_XCutDj9wpg/edit
 url_slides: ''
 url_video: ''
 
