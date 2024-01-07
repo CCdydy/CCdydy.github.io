@@ -17,12 +17,12 @@ links:
     icon_pack: fas
     name: Proposal
     url: https://docs.google.com/document/d/18o0yLOp9uXybKav0a6EnxJgAq2glUaSl_XCutDj9wpg/edit
-url_code: ''
-url_pdf: 
   - icon: envelope
     icon_pack: fas
     name: report
     url: https://docs.google.com/document/d/1pn2TlFLyXfhmn54eqxFBc2r9GGp_kXhGx15aB2U2JoA/edit
+url_code: ''
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
