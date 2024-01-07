@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "A new complex belief entropy of 𝜒2 divergence with its application in cardiac interbeat interval time series analysis"
 authors:
 - admin
-- Robert Ford
+- Fuyuan Xiao
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2023-02-27T00:00:00Z"
+doi: 113542
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-04-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Chaos, Solitons and Fractals"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: in a multiplicity of fields of representation and fusion of information. However, in complex evidence theory, conflict measurement is still an open issue. To address this problem, we propose a new complex belief 𝜒2 divergence measure (𝐶𝐵𝜒2), which has the ability to measure the discrepancy between the complex basic belief assignments (CBBAs). In addition, the proposed 𝐶𝐵𝜒2 divergence measure satisfies the properties of nonnegativity, nondegeneracy and symmetry. Particularly, when the CBBA degenerates to classical basic belief assignments (BBA), the proposed divergence can also measure the conflict well. On this basis, a novel 𝐵𝐸𝑜𝐶𝐵𝜒2𝐷 is proposed to measure the complexity of cardiac interbeat interval time series in biological system. An application in cardiac interbeat interval time series analysis demonstrates that 𝐵𝐸𝑜𝐶𝐵𝜒2𝐷 has better accuracy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  In this paper we only consider cardiac interbeat interval time series analysis from the perspective of complexity. Therefore, in future works, we will address the problem of algorithm complexity by integrating the technique of quantum information processing. Besides, we would like to combine the 𝐵𝐸𝑜𝐶𝐵𝜒2D.
 
 tags:
 - Source Themes
@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://doi.org/10.1016/j.chaos.2023.113542
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -2,6 +2,7 @@
 title: "A Generalized Hellinger Distance for Multisource Information Fusion and Its Application in Pattern Classification"
 authors:
 - admin
+- Fuyuan Xiao
 date: "2023-11-23T00:00:00Z"
 doi: ""
 
@@ -17,7 +18,9 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Dempster-Shafer (D-S) evidence theory is used to process multisource data fusion and uncertainty problems. When faced with strongly contradictory evidence, there are always some surprising phenomena. We propose a new generalized distance based on Li et al.’s Hellinger distance in this study to assess the distinction between basic probability assignments (BPAs) in order to solve this problem.The basic structure of Li et al.’s Hellinger distance was kept in the generalized Hellinger distance, and certain advancements were achieved. The generalized Hellinger distance considers the differences between both focal elements and the subsets of the sets of belief functions, enabling a wider range of applications for it. Additionally, we present the proof of generalized Hellinger distance satisfied nonnegativeness, symmetry, definiteness and triangle inequality. Through several comparative examples, we know that the new distance has better universality than some well known works. Finally, we suggest a novel generalized Hellinger distance based multisource data fusion approach and use it to solve a real-word pattern classification problem.
+abstract: Dempster-Shafer (D-S) evidence theory is used to process multisource data fusion and uncertainty problems. When faced with strongly contradictory evidence, there are always some surprising phenomena. We propose a new generalized distance based on Li et al.’s Hellinger distance in this study to assess the distinction between basic probability assignments (BPAs) in order to solve this problem.The basic structure of Li et al.’s Hellinger distance was kept in the generalized Hellinger distance, and certain advancements were achieved. 
+
+The generalized Hellinger distance considers the differences between both focal elements and the subsets of the sets of belief functions, enabling a wider range of applications for it. Additionally, we present the proof of generalized Hellinger distance satisfied nonnegativeness, symmetry, definiteness and triangle inequality. Through several comparative examples, we know that the new distance has better universality than some well known works. Finally, we suggest a novel generalized Hellinger distance based multisource data fusion approach and use it to solve a real-word pattern classification problem.
 
 # Summary. An optional shortened abstract.
 summary: In the future we will focus on the theory and evaluation of multisource data fusion’ related fields. The proposed algorithm will be tested by more experiments and simulations, besides our new algorithm will be applied in many other fields.
@@ -31,12 +34,12 @@ links:
   url: ""
 url_pdf: ""
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
