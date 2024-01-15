@@ -31,8 +31,8 @@ bio: I am looking for new research interests and look forward to making achievem
 interests:
   - Artificial Intelligence
   - Computer Vision
-  - Computational Photography
-  - D-S Evidence Theory
+  - Explainable AI
+  - Knowledge graph
 # Education to show in About widget
 education:
   courses:
