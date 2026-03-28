@@ -50,41 +50,45 @@ sections:
       username: admin
     design:
       columns: '1'
-  #  block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
-
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
-  #   design:
-  #     columns: '2'
+  - block: experience
+    content:
+      title: Experience
+      date_format: Jan 2006
+      items:
+        - title: Research Assistant
+          company: NICT Japan (情報通信研究機構)
+          company_url: 'https://www.nict.go.jp/'
+          company_logo: ''
+          location: Tokyo, Japan
+          date_start: '2025-04-01'
+          date_end: '2026-04-01'
+          description: |2-
+              * Applying frame interpolation techniques flexibly to video compression and transmission
+              * Video generation and frame interpolation using diffusion models: **Bi-AGMI** (IEEE GCCE 2025 oral)
+              * Developing video slicing algorithms driven by motion intensity analysis: **FRS** (IEVC 2026)
+        - title: Graduate Student (Watanabe Laboratory)
+          company: Waseda University
+          company_url: 'https://www.waseda.jp/'
+          company_logo: ''
+          location: Tokyo, Japan
+          date_start: '2024-09-01'
+          date_end: '2026-07-01'
+          description: |2-
+              * Mastered the theory, implementation, and application of diffusion models
+              * Focused on deepfake detection using a novel feature extractor: **TSG** (ACM MMAsia 2025 oral)
+              * Collaborated on combining Stable Video Diffusion with ControlNet for large-motion frame interpolation
+        - title: Research Assistant
+          company: Chongqing University – Information Processing Lab
+          company_url: 'https://www.cqu.edu.cn/'
+          company_logo: ''
+          location: Chongqing, China
+          date_start: '2021-09-01'
+          date_end: '2024-06-01'
+          description: |2-
+              * Conducted research in information theory and fusion
+              * Published two journal articles in information fusion (Impact Factor 5.3)
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -237,24 +241,23 @@ sections:
       subtitle:
       text: My email is as follows. If you have any questions, please contact me.
       # Contact (add or remove contact options as necessary)
-      email: zengziyue26@gmail.com
-      phone: +(86) 136 8122 3237
+      email: zengziyue@fuji.waseda.jp
       #appointment_url: 'https://calendly.com'
       address:
-        street: QingNian road
-        city: Beijing
+        street: 3-4-1 Okubo, Shinjuku
+        city: Tokyo
         #region: CA
-        #postcode: '94305'
-        country: China
-        country_code: CHN
+        postcode: '169-8555'
+        country: Japan
+        country_code: JPN
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '39.92'
-        longitude: '116.51'  
+        latitude: '35.7090'
+        longitude: '139.7195'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab

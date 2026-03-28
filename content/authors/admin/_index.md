@@ -3,7 +3,7 @@
 title: ZIYUE ZENG
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Ziyue
@@ -17,31 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student from Chongqing University
+role: Master's Student → Incoming PhD Student at Waseda University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chongqing University
-    url: https://www.cqu.edu.cn/
+  - name: Waseda University
+    url: https://www.waseda.jp/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am looking for new research interests and look forward to making achievements in the field of artificial intelligence.
+bio: Pursuing socially meaningful, grounded research with enduring passion and diligence.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - Explainable AI
-  - Knowledge graph
+  - Diffusion-based Deepfake Detection
+  - Video Generation & Frame Interpolation
+  - Voice-driven Speaker Head Modeling & 3DGS
+  - New Video Encoding Paradigm
+
 # Education to show in About widget
 education:
   courses:
-    - course: B.S. iN ARTiFiCiAL INTELLiGENCE
-      institution: Chongqing University
-      year: Sep.2020 ‑ Jul.2024
-    - course: EXCHANGE （SCHOOL OF FUNDAMENTAL SCiENCE AND ENGiNEERiNG）
+    - course: Ph.D. in Fundamental Science and Engineering (Kato Lab)
       institution: Waseda University
-      year: Apr.2023 ‑ Aug.2023
+      year: Sep.2026 – Future
+    - course: M.S. in Fundamental Science and Engineering (Watanabe Lab)
+      institution: Waseda University
+      year: Sep.2024 – Jul.2026
+    - course: B.S. in Artificial Intelligence
+      institution: Chongqing University
+      year: Sep.2020 – Jul.2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,15 +57,15 @@ skills:
         percent: 100
         icon: python
         icon_pack: fab
+      - name: Deep Learning
+        description: ''
+        percent: 90
+        icon: brain
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 70
         icon: chart-line
-        icon_pack: fas
-      - name: Matlab
-        description: ''
-        percent: 60
-        icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -91,24 +95,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=DKmHf3wAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/CCdydy
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -117,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-Zeng Ziyue is an undergraduate majoring in artificial intelligence at Chongqing University. He has some experience in academic research and is now exploring his new interests and research directions.
+Ziyue Zeng is a master's student at Waseda University (Watanabe Laboratory), with an incoming PhD position at Kato Laboratory starting September 2026. His research focuses on diffusion-based deepfake detection, video generation and frame interpolation, and 3DGS-based talking head synthesis. He is also a Research Assistant at NICT Japan, working on next-generation video coding technologies.
 {style="text-align: justify;"}
