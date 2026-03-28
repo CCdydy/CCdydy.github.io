@@ -175,10 +175,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Machine Learning
-          tag: Demo
+        - name: Deepfake Detection
+          tag: Deepfake Detection
+        - name: Video Generation
+          tag: Video Generation
+        - name: 3DGS
+          tag: 3DGS
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
