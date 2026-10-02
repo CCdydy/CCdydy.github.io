@@ -28,7 +28,7 @@ abstract: >-
 tags: []
 featured: false
 url_pdf: 'https://arxiv.org/pdf/2411.11016'
-url_code: ''
+url_code: 'https://github.com/NuayHL/TimeStepGenerating'
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2411.11016

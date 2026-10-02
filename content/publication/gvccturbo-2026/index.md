@@ -35,5 +35,5 @@ links:
   - name: arXiv
     url: https://arxiv.org/abs/2608.03517
 projects:
-  - video-coding
+  - gvcc
 ---

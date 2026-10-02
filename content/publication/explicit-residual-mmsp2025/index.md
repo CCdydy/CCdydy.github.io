@@ -31,5 +31,6 @@ url_code: ''
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2506.19297
-projects: []
+projects:
+  - icmh
 ---

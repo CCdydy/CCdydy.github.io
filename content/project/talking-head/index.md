@@ -5,6 +5,7 @@ tags:
   - Deep Learning
   - 3DGS
 date: '2025-10-01T00:00:00Z'
+weight: 5
 
 external_link: ''
 

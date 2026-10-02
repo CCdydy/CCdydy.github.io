@@ -98,7 +98,7 @@ social:
     link: '/#contact'
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=DKmHf3wAAAAJ
+    link: https://scholar.google.com/citations?user=wQHgPTwAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/CCdydy

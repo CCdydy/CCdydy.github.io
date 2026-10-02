@@ -183,6 +183,9 @@ sections:
       filters:
         folders:
           - project
+      # Order projects by the `weight` set in each project's front matter.
+      sort_by: Weight
+      sort_ascending: true
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -193,10 +196,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deepfake Detection
-          tag: Deepfake Detection
+        - name: Generative Compression
+          tag: Generative Compression
         - name: Video Generation
           tag: Video Generation
+        - name: Image Coding
+          tag: Image Coding
+        - name: Deepfake Detection
+          tag: Deepfake Detection
         - name: 3DGS
           tag: 3DGS
     design:

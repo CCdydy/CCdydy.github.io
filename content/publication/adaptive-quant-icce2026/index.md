@@ -30,5 +30,6 @@ url_code: 'https://github.com/qwert-top/AQVR-ICM'
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2511.05836
-projects: []
+projects:
+  - icmh
 ---
