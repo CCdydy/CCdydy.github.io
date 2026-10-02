@@ -62,6 +62,15 @@ sections:
           location: Tokyo, Japan
           date_start: '2026-09-01'
           date_end: ''
+          description: |2-
+              * Research on generative compression and compressed representation understanding
+        - title: Research Intern (CG Lab)
+          company: Huawei Tokyo Da Vinci Research Institute
+          company_url: 'https://www.huawei.com/jp/'
+          company_logo: ''
+          location: Tokyo, Japan
+          date_start: '2026-06-01'
+          date_end: ''
           description: ''
         - title: Research Assistant
           company: NICT Japan (情報通信研究機構)

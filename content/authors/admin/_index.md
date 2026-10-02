@@ -29,10 +29,11 @@ bio: Pursuing socially meaningful, grounded research with enduring passion and d
 
 # Interests to show in About widget
 interests:
+  - Generative Compression
+  - Compressed Representation Understanding
   - Diffusion-based Deepfake Detection
   - Video Generation & Frame Interpolation
   - Voice-driven Speaker Head Modeling & 3DGS
-  - New Video Encoding Paradigm
 
 # Education to show in About widget
 education:
@@ -109,5 +110,5 @@ social:
 highlight_name: true
 ---
 
-Ziyue Zeng is a Ph.D. student at Kato Laboratory, Waseda University, since September 2026, after receiving his M.S. from Watanabe Laboratory at Waseda University. His research focuses on generative video compression (GVCC, NeurIPS 2026), diffusion-based deepfake detection, video generation and frame interpolation, and 3DGS-based talking head synthesis. He previously worked as a Research Assistant at NICT Japan on next-generation video coding technologies.
+Ziyue Zeng is a Ph.D. student at Kato Laboratory, Waseda University (since September 2026), and a Research Intern at the CG Lab of Huawei Tokyo Da Vinci Research Institute (since June 2026). He received his M.S. from Watanabe Laboratory at Waseda University. His Ph.D. research focuses on generative compression and compressed representation understanding, building on his work on zero-shot generative video compression (GVCC, NeurIPS 2026). He has also worked on diffusion-based deepfake detection, video generation and frame interpolation, and 3DGS-based talking head synthesis, and previously served as a Research Assistant at NICT Japan on next-generation video coding technologies.
 {style="text-align: justify;"}
