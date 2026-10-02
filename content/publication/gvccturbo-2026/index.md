@@ -28,7 +28,7 @@ abstract: >-
   scheduling as a controllable extension of sampler-length tuning, without requiring the allocated point to
   dominate every boundary point.
 tags: []
-featured: false
+featured: true
 url_pdf: 'https://arxiv.org/pdf/2608.03517'
 url_code: ''
 links:

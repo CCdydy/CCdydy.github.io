@@ -26,7 +26,7 @@ abstract: >-
   demonstrate that TSG and TSG++ outperform prior methods in both accuracy and efficiency, offering a strong and
   adaptable solution for diffusion-based synthetic image detection.
 tags: []
-featured: false
+featured: true
 url_pdf: 'https://arxiv.org/pdf/2411.11016'
 url_code: 'https://github.com/NuayHL/TimeStepGenerating'
 links:

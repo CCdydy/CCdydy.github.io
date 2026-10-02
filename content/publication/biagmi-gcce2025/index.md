@@ -22,7 +22,7 @@ abstract: >-
   interpolation over large temporal gaps, Bi-AGMI expands the practical usability of diffusion models for
   long-range video completion.
 tags: []
-featured: false
+featured: true
 url_pdf: ''
 url_code: ''
 projects:

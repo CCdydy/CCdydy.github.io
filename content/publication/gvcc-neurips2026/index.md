@@ -28,7 +28,7 @@ abstract: >-
   fidelity metrics together with temporal diagnostics, without inferring matched-rate or global RD improvements
   from these limited local sweeps.
 tags: []
-featured: false
+featured: true
 url_pdf: 'https://arxiv.org/pdf/2603.26571'
 url_code: ''
 links:

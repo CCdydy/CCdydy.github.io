@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ZIYUE ZENG
+title: Ziyue Zeng
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student at Waseda University
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -33,20 +33,20 @@ interests:
   - Compressed Representation Understanding
   - Diffusion-based Deepfake Detection
   - Video Generation & Frame Interpolation
-  - Voice-driven Speaker Head Modeling & 3DGS
+  - Audio-driven 3D Talking Heads (3DGS)
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Fundamental Science and Engineering (Kato Lab)
       institution: Waseda University
-      year: Sep.2026 – Present
+      year: 2026–present
     - course: M.S. in Fundamental Science and Engineering (Watanabe Lab)
       institution: Waseda University
-      year: Sep.2024 – Jul.2026
+      year: 2024–2026
     - course: B.S. in Artificial Intelligence
       institution: Chongqing University
-      year: Sep.2020 – Jul.2024
+      year: 2020–2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -110,7 +110,8 @@ social:
 highlight_name: true
 ---
 
-Ziyue Zeng is a Ph.D. student at Kato Laboratory, Waseda University (since September 2026), and a Research Intern at the CG Lab of Huawei Tokyo Da Vinci Research Institute (since June 2026). He received his M.S. from Watanabe Laboratory at Waseda University. His Ph.D. research focuses on generative compression and compressed representation understanding, building on his work on zero-shot generative video compression (GVCC, NeurIPS 2026). He has also worked on diffusion-based deepfake detection, video generation and frame interpolation, and 3DGS-based talking head synthesis, and previously served as a Research Assistant at NICT Japan on next-generation video coding technologies.
-{style="text-align: justify;"}
+Ziyue Zeng is a Ph.D. student at Kato Laboratory, Waseda University, and a Research Intern at the CG Lab of Huawei Tokyo Da Vinci Research Institute. His research focuses on **generative compression**, which uses pretrained generative models as decoders to reconstruct images and videos at ultra-low bitrates, and on **understanding compressed representations**. His recent work, GVCC, a zero-shot video codec built on pretrained video generative models, will appear at NeurIPS 2026.
 
-CV: [English](/uploads/resume.pdf) · [中文](/uploads/resume_zh.pdf)
+He received his M.S. from Watanabe Laboratory, Waseda University, where he also worked on diffusion-based frame interpolation and deepfake detection, and his B.S. in Artificial Intelligence from Chongqing University.
+
+**CV:** [English](/uploads/resume.pdf) · [中文](/uploads/resume_zh.pdf)

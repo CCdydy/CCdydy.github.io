@@ -21,7 +21,7 @@ abstract: >-
   Compression and recent generative interpolation approaches, our method achieves superior perceptual quality
   (lower LPIPS), stable temporal consistency, and improved efficiency under real-world compression scenarios.
 tags: []
-featured: false
+featured: true
 url_pdf: ''
 url_code: ''
 projects:
