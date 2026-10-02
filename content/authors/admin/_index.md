@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's Student → Incoming PhD Student at Waseda University
+role: Ph.D. Student at Waseda University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -39,7 +39,7 @@ education:
   courses:
     - course: Ph.D. in Fundamental Science and Engineering (Kato Lab)
       institution: Waseda University
-      year: Sep.2026 – Future
+      year: Sep.2026 – Present
     - course: M.S. in Fundamental Science and Engineering (Watanabe Lab)
       institution: Waseda University
       year: Sep.2024 – Jul.2026
@@ -109,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-Ziyue Zeng is a master's student at Waseda University (Watanabe Laboratory), with an incoming PhD position at Kato Laboratory starting September 2026. His research focuses on diffusion-based deepfake detection, video generation and frame interpolation, and 3DGS-based talking head synthesis. He is also a Research Assistant at NICT Japan, working on next-generation video coding technologies.
+Ziyue Zeng is a Ph.D. student at Kato Laboratory, Waseda University, since September 2026, after receiving his M.S. from Watanabe Laboratory at Waseda University. His research focuses on generative video compression (GVCC, NeurIPS 2026), diffusion-based deepfake detection, video generation and frame interpolation, and 3DGS-based talking head synthesis. He previously worked as a Research Assistant at NICT Japan on next-generation video coding technologies.
 {style="text-align: justify;"}

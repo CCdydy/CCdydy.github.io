@@ -55,6 +55,14 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
+        - title: Ph.D. Student (Kato Laboratory)
+          company: Waseda University
+          company_url: 'https://www.waseda.jp/'
+          company_logo: ''
+          location: Tokyo, Japan
+          date_start: '2026-09-01'
+          date_end: ''
+          description: ''
         - title: Research Assistant
           company: NICT Japan (情報通信研究機構)
           company_url: 'https://www.nict.go.jp/'
@@ -64,9 +72,9 @@ sections:
           date_end: '2026-04-01'
           description: |2-
               * Applying frame interpolation techniques flexibly to video compression and transmission
-              * Video generation and frame interpolation using diffusion models: **Bi-AGMI** (IEEE GCCE 2025 oral)
+              * Video generation and frame interpolation using diffusion models: **Bi-AGMI** (IEEE GCCE 2025, Oral Presentation Award)
               * Developing video slicing algorithms driven by motion intensity analysis: **FRS** (IEVC 2026)
-        - title: Graduate Student (Watanabe Laboratory)
+        - title: Master's Student (Watanabe Laboratory)
           company: Waseda University
           company_url: 'https://www.waseda.jp/'
           company_logo: ''
@@ -77,6 +85,7 @@ sections:
               * Mastered the theory, implementation, and application of diffusion models
               * Focused on deepfake detection using a novel feature extractor: **TSG** (ACM MMAsia 2025 oral)
               * Collaborated on combining Stable Video Diffusion with ControlNet for large-motion frame interpolation
+              * Proposed zero-shot video compression with pretrained video generative models as decoders: **GVCC** (NeurIPS 2026)
         - title: Research Assistant
           company: Chongqing University – Information Processing Lab
           company_url: 'https://www.cqu.edu.cn/'
@@ -207,16 +216,19 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: publications
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
+      # Show all publications (0 = all)
+      count: 0
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
