@@ -19,7 +19,7 @@ sections:
       subtitle: ''
       text: |-
         - **Sep 2026** — **GVCC** was accepted to **NeurIPS 2026**. [[arXiv]](https://arxiv.org/abs/2603.26571)
-        - **Sep 2026** — Started the Ph.D. program at Kato Laboratory, Waseda University.
+        - **Sep 2026** — Started the Ph.D. program at Katto Laboratory, Waseda University.
         - **Aug 2026** — **GVCCTurbo** is out on arXiv. [[arXiv]](https://arxiv.org/abs/2608.03517)
         - **Aug 2026** — A co-authored paper received the **MIRU 2026 Interactive Presentation Award**.
         - **Jun 2026** — Joined the CG Lab of Huawei Tokyo Da Vinci Research Institute as a Research Intern.
@@ -68,7 +68,7 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
-        - title: Ph.D. Student (Kato Laboratory)
+        - title: Ph.D. Student (Katto Laboratory)
           company: Waseda University
           company_url: 'https://www.waseda.jp/'
           company_logo: ''

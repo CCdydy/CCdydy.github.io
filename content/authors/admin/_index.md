@@ -38,7 +38,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Fundamental Science and Engineering (Kato Lab)
+    - course: Ph.D. in Fundamental Science and Engineering (Katto Lab)
       institution: Waseda University
       year: 2026–present
     - course: M.S. in Fundamental Science and Engineering (Watanabe Lab)
@@ -110,7 +110,7 @@ social:
 highlight_name: true
 ---
 
-Ziyue Zeng is a Ph.D. student at Kato Laboratory, Waseda University, and a Research Intern at the CG Lab of Huawei Tokyo Da Vinci Research Institute. His research focuses on **generative compression**, which uses pretrained generative models as decoders to reconstruct images and videos at ultra-low bitrates, and on **understanding compressed representations**. His recent work, GVCC, a zero-shot video codec built on pretrained video generative models, will appear at NeurIPS 2026.
+Ziyue Zeng is a Ph.D. student at [Katto Laboratory](https://www.katto.comm.waseda.ac.jp/), Waseda University, advised by Prof. Jiro Katto, and a Research Intern at the CG Lab of Huawei Tokyo Da Vinci Research Institute. His research focuses on **generative compression**, which uses pretrained generative models as decoders to reconstruct images and videos at ultra-low bitrates, and on **understanding compressed representations**. His recent work, GVCC, a zero-shot video codec built on pretrained video generative models, will appear at NeurIPS 2026.
 
 He received his M.S. from Watanabe Laboratory, Waseda University, where he also worked on diffusion-based frame interpolation and deepfake detection, and his B.S. in Artificial Intelligence from Chongqing University.
 
