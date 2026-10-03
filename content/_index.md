@@ -32,18 +32,16 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Selected Publications
-      text: Selected first-author papers.
-      # Show all featured publications (0 = all)
+      title: Publications
+      text: All papers, newest first. Filter by type on the [publications page](./publication/).
+      # Show all publications (0 = all)
       count: 0
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
       archive:
-        enable: true
-        text: All publications
-        link: publication/
+        enable: false
     design:
       columns: '2'
       view: citation
